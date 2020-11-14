@@ -1,6 +1,6 @@
 title: Wizard of Things
 description: Exploring low power wireless sensor networks with practical everyday things
-url: "https://wizard-of-things.github.io/"
+url: "https://wizard-of-things.github.io"
 markdown: kramdown
 permalink: /:title
 google_analytics:
