@@ -1,0 +1,17 @@
+- name: Enviro Dashboard
+  sequence: 3
+  url: /envirodash
+  description: Environmental Dashboard
+  version: "1.0"
+
+  wireless: WiFi
+  mcu: esp8266
+  sensor: Temperature
+  power: USB
+
+  cogs_usd: "9.71"
+  cogs_sgd: "13.20"
+  bom: 49
+  vendors: 2
+
+  status: ongoing
