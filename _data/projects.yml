@@ -1,6 +1,6 @@
 - name: Enviro Dashboard
   sequence: 3
-  url: /envirodashboard
+  url: /oak
   description: Environmental Dashboard
   version: "1.0"
 
