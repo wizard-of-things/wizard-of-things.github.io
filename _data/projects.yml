@@ -1,4 +1,4 @@
-- name: Enviro Dashboard
+- name: Oak
   sequence: 3
   url: /oak
   description: Environmental Dashboard
