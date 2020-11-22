@@ -1,7 +1,7 @@
-- name: Oak
-  sequence: 3
-  url: /oak
-  description: Environmental Dashboard
+- name: Project1
+  sequence: 1
+  url: /project1
+  description: Project 1
   version: "1.0"
 
   wireless: WiFi

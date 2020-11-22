@@ -23,7 +23,7 @@ layout: default
   <section class="section is-small">
     <div class="columns">
       <div class="column is-3">
-        <img src="https://github.com/wizard-of-things/{{ project.name | downcase }}/images/prototype/front.jpg" alt="{{ project.name }} photo">
+        <img src="https://wizard-of-things.github.io/{{ project.name | downcase }}/images/prototype/front.jpg" alt="{{ project.name }} photo">
       </div>
 
 
