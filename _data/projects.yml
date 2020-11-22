@@ -1,3 +1,21 @@
+- name: Project2
+  sequence: 2
+  url: /project2
+  description: Project 1
+  version: "1.0"
+
+  wireless: WiFi
+  mcu: esp8266
+  sensor: Temperature
+  power: USB
+
+  cogs_usd: "9.71"
+  cogs_sgd: "13.20"
+  bom: 49
+  vendors: 2
+
+  status: ongoing
+
 - name: Project1
   sequence: 1
   url: /project1
