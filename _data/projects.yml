@@ -1,7 +1,25 @@
-- name: Project2
+- name: esp32gateway
+  sequence: 3
+  url: /esp32gateway
+  description: ESP32 Gateway
+  version: "1.0"
+
+  wireless: WiFi
+  mcu: esp8266
+  sensor: Temperature
+  power: USB
+
+  cogs_usd: "9.71"
+  cogs_sgd: "13.20"
+  bom: 49
+  vendors: 2
+
+  status: ongoing
+
+- name: nrf24dongle
   sequence: 2
-  url: /project2
-  description: Project 1
+  url: /nrf24dongle
+  description: NRF24 Dongle
   version: "1.0"
 
   wireless: WiFi
@@ -16,10 +34,10 @@
 
   status: ongoing
 
-- name: Project1
+- name: esp32lorabridge
   sequence: 1
-  url: /project1
-  description: Project 1
+  url: /esp32lorabridge
+  description: ESP32 Lora Brodge
   version: "1.0"
 
   wireless: WiFi
@@ -32,4 +50,4 @@
   bom: 49
   vendors: 2
 
-  status: ongoing
+  status: ongoing  
